@@ -1,182 +1,362 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb",
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
     "title": "Instagram",
     "companyName": "Meta Platforms Inc.",
     "id": 1,
-    "description": "Instagram is a social media platform for sharing photos, videos, and stories. It allows users to connect with friends, discover creators, and explore trending content from around the world.",
+    "description": "Instagram is a social media platform for sharing photos, videos, and stories. It allows users to connect, explore trending content, and grow communities.",
     "size": 180,
-    "reviews": 42100000,
+    "reviews": 42,
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": "9M",
     "ratings": [
-      { "name": "1 star", "count": 350000 },
-      { "name": "2 star", "count": 470000 },
-      { "name": "3 star", "count": 890000 },
-      { "name": "4 star", "count": 6800000 },
-      { "name": "5 star", "count": 33000000 }
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.8 },
+      { "name": "4 star", "count": 6 },
+      { "name": "5 star", "count": 30 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1611162617213-7e71d8a8e9a7",
-    "title": "TikTok",
-    "companyName": "ByteDance Ltd.",
-    "id": 2,
-    "description": "TikTok is a short-form video platform where users create and share engaging clips with music, effects, and trends. It’s one of the most downloaded apps worldwide for entertainment.",
-    "size": 150,
-    "reviews": 39000000,
-    "ratingAvg": 4.6,
-    "downloads": 3000000000,
-    "ratings": [
-      { "name": "1 star", "count": 420000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 950000 },
-      { "name": "4 star", "count": 5500000 },
-      { "name": "5 star", "count": 31000000 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432",
-    "title": "Spotify",
-    "companyName": "Spotify AB",
-    "id": 3,
-    "description": "Spotify lets you stream millions of songs and podcasts for free or with a Premium subscription. Users can create playlists, follow artists, and discover personalized music recommendations.",
-    "size": 120,
-    "reviews": 25000000,
-    "ratingAvg": 4.7,
-    "downloads": 1000000000,
-    "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 210000 },
-      { "name": "3 star", "count": 440000 },
-      { "name": "4 star", "count": 4900000 },
-      { "name": "5 star", "count": 19500000 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1587574293340-e0011c4e7fa5",
-    "title": "Snapchat",
-    "companyName": "Snap Inc.",
-    "id": 4,
-    "description": "Snapchat is a fast and fun way to share moments with friends using disappearing photos, videos, filters, and AR lenses. Stay connected through chats and Snap Map.",
-    "size": 140,
-    "reviews": 21000000,
-    "ratingAvg": 4.3,
-    "downloads": 1000000000,
-    "ratings": [
-      { "name": "1 star", "count": 280000 },
-      { "name": "2 star", "count": 450000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 4700000 },
-      { "name": "5 star", "count": 14000000 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1603112579965-3c21d5ffb3a4",
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
     "title": "YouTube",
     "companyName": "Google LLC",
-    "id": 5,
-    "description": "YouTube is the world’s largest video-sharing platform, where users watch, upload, and share videos on any topic. It features music, entertainment, tutorials, news, and live streams.",
-    "size": 190,
-    "reviews": 90000000,
-    "ratingAvg": 4.5,
-    "downloads": 10000000000,
-    "ratings": [
-      { "name": "1 star", "count": 600000 },
-      { "name": "2 star", "count": 720000 },
-      { "name": "3 star", "count": 1300000 },
-      { "name": "4 star", "count": 12000000 },
-      { "name": "5 star", "count": 75000000 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1612831455543-4d5f6f56b5b3",
-    "title": "WhatsApp",
-    "companyName": "Meta Platforms Inc.",
-    "id": 6,
-    "description": "WhatsApp is a free messaging and calling app that uses your internet connection. You can send messages, voice notes, photos, videos, and documents securely with end-to-end encryption.",
-    "size": 100,
-    "reviews": 70000000,
+    "id": 2,
+    "description": "YouTube is the largest video streaming and sharing platform with billions of users watching and uploading content daily.",
+    "size": 220,
+    "reviews": 67,
     "ratingAvg": 4.6,
-    "downloads": 5000000000,
+    "downloads": "10M",
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 7000000 },
-      { "name": "5 star", "count": 62000000 }
+      { "name": "1 star", "count": 0.4 },
+      { "name": "2 star", "count": 0.6 },
+      { "name": "3 star", "count": 1 },
+      { "name": "4 star", "count": 8 },
+      { "name": "5 star", "count": 50 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432",
-    "title": "Netflix",
-    "companyName": "Netflix Inc.",
-    "id": 7,
-    "description": "Netflix is a streaming platform offering thousands of movies, TV shows, and documentaries. Enjoy personalized recommendations and watch offline with a subscription plan.",
-    "size": 160,
-    "reviews": 19000000,
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "id": 3,
+    "description": "WhatsApp is a secure messaging platform with free text, voice, and video calling features worldwide.",
+    "size": 150,
+    "reviews": 58,
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.3 },
+      { "name": "3 star", "count": 0.7 },
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 4,
+    "description": "TikTok provides a platform for creative short-form videos, trends, and entertainment.",
+    "size": 190,
+    "reviews": 52,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": "8M",
     "ratings": [
-      { "name": "1 star", "count": 180000 },
-      { "name": "2 star", "count": 250000 },
-      { "name": "3 star", "count": 420000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 14200000 }
+      { "name": "1 star", "count": 0.5 },
+      { "name": "2 star", "count": 0.8 },
+      { "name": "3 star", "count": 1 },
+      { "name": "4 star", "count": 6 },
+      { "name": "5 star", "count": 35 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1556157382-97eda2d62296",
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 5,
+    "description": "Snapchat lets users share quick photos and videos with filters, lenses, and AR effects.",
+    "size": 160,
+    "reviews": 33,
+    "ratingAvg": 4.2,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 0.6 },
+      { "name": "2 star", "count": 0.9 },
+      { "name": "3 star", "count": 1.5 },
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 25 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 6,
+    "description": "Twitter (X) connects people through short posts, live news, and conversations worldwide.",
+    "size": 180,
+    "reviews": 29,
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.5 },
+      { "name": "3 star", "count": 1 },
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 20 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 7,
+    "description": "Spotify lets you listen to millions of songs and podcasts on demand.",
+    "size": 230,
+    "reviews": 48,
+    "ratingAvg": 4.7,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.9 },
+      { "name": "4 star", "count": 7 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 8,
-    "description": "Telegram is a fast, secure, and cloud-based messaging app that allows sending text, files, and media with privacy-focused encryption. Ideal for both personal and business communication.",
-    "size": 110,
-    "reviews": 13000000,
-    "ratingAvg": 4.8,
-    "downloads": 1000000000,
+    "description": "Telegram is a fast, encrypted messaging app with powerful group and channel features.",
+    "size": 170,
+    "reviews": 21,
+    "ratingAvg": 4.5,
+    "downloads": "5M",
     "ratings": [
-      { "name": "1 star", "count": 100000 },
-      { "name": "2 star", "count": 150000 },
-      { "name": "3 star", "count": 300000 },
-      { "name": "4 star", "count": 2200000 },
-      { "name": "5 star", "count": 10500000 }
+      { "name": "1 star", "count": 0.1 },
+      { "name": "2 star", "count": 0.3 },
+      { "name": "3 star", "count": 0.5 },
+      { "name": "4 star", "count": 3 },
+      { "name": "5 star", "count": 18 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb",
-    "title": "Facebook",
-    "companyName": "Meta Platforms Inc.",
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
     "id": 9,
-    "description": "Facebook connects people globally, allowing users to share updates, photos, and events, join communities, and stay informed about trends and news.",
-    "size": 180,
-    "reviews": 85000000,
-    "ratingAvg": 4.2,
-    "downloads": 5000000000,
+    "description": "Netflix streams movies, TV shows, and documentaries globally on multiple devices.",
+    "size": 250,
+    "reviews": 38,
+    "ratingAvg": 4.5,
+    "downloads": "7M",
     "ratings": [
-      { "name": "1 star", "count": 700000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 1500000 },
-      { "name": "4 star", "count": 10500000 },
-      { "name": "5 star", "count": 70000000 }
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.9 },
+      { "name": "4 star", "count": 4 },
+      { "name": "5 star", "count": 30 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb",
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
     "title": "LinkedIn",
-    "companyName": "Microsoft Corporation",
+    "companyName": "Microsoft Corp.",
     "id": 10,
-    "description": "LinkedIn is a professional networking platform that helps users connect with peers, discover jobs, share knowledge, and build their career profile online.",
-    "size": 120,
-    "reviews": 9800000,
-    "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "description": "LinkedIn helps professionals connect, share insights, and grow their careers.",
+    "size": 180,
+    "reviews": 17,
+    "ratingAvg": 4.3,
+    "downloads": "4M",
     "ratings": [
-      { "name": "1 star", "count": 120000 },
-      { "name": "2 star", "count": 150000 },
-      { "name": "3 star", "count": 310000 },
-      { "name": "4 star", "count": 2300000 },
-      { "name": "5 star", "count": 7000000 }
+      { "name": "1 star", "count": 0.1 },
+      { "name": "2 star", "count": 0.2 },
+      { "name": "3 star", "count": 0.5 },
+      { "name": "4 star", "count": 3 },
+      { "name": "5 star", "count": 12 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 11,
+    "description": "Pinterest helps users discover and save creative ideas for lifestyle, design, and hobbies.",
+    "size": 190,
+    "reviews": 23,
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.3 },
+      { "name": "3 star", "count": 0.8 },
+      { "name": "4 star", "count": 4 },
+      { "name": "5 star", "count": 18 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 12,
+    "description": "Reddit is a network of communities where people share news, memes, and discussions.",
+    "size": 200,
+    "reviews": 25,
+    "ratingAvg": 4.4,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.6 },
+      { "name": "4 star", "count": 3 },
+      { "name": "5 star", "count": 15 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 13,
+    "description": "Discord is a chat app for communities, gamers, and creators to connect via text and voice.",
+    "size": 190,
+    "reviews": 32,
+    "ratingAvg": 4.6,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.5 },
+      { "name": "3 star", "count": 1 },
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 22 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 14,
+    "description": "Zoom provides reliable video conferencing, messaging, and online collaboration tools.",
+    "size": 250,
+    "reviews": 40,
+    "ratingAvg": 4.5,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.8 },
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 30 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 15,
+    "description": "Google Drive offers secure cloud storage for files, documents, and backups.",
+    "size": 210,
+    "reviews": 36,
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.8 },
+      { "name": "4 star", "count": 6 },
+      { "name": "5 star", "count": 28 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte Ltd.",
+    "id": 16,
+    "description": "CapCut is a powerful video editing app for creating short and creative content.",
+    "size": 180,
+    "reviews": 27,
+    "ratingAvg": 4.6,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.7 },
+      { "name": "4 star", "count": 4 },
+      { "name": "5 star", "count": 20 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 17,
+    "description": "Google Maps offers navigation, live traffic, and local business information globally.",
+    "size": 230,
+    "reviews": 44,
+    "ratingAvg": 4.7,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.5 },
+      { "name": "3 star", "count": 1 },
+      { "name": "4 star", "count": 6 },
+      { "name": "5 star", "count": 30 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd.",
+    "id": 18,
+    "description": "Canva helps users design graphics, presentations, and posts easily with templates.",
+    "size": 200,
+    "reviews": 31,
+    "ratingAvg": 4.8,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.3 },
+      { "name": "3 star", "count": 0.6 },
+      { "name": "4 star", "count": 4 },
+      { "name": "5 star", "count": 25 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 19,
+    "description": "Duolingo is a fun and free app for learning languages through interactive lessons.",
+    "size": 160,
+    "reviews": 22,
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 0.1 },
+      { "name": "2 star", "count": 0.2 },
+      { "name": "3 star", "count": 0.5 },
+      { "name": "4 star", "count": 3 },
+      { "name": "5 star", "count": 17 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 20,
+    "description": "Amazon Shopping allows users to browse, buy, and track products globally.",
+    "size": 250,
+    "reviews": 39,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 0.4 },
+      { "name": "2 star", "count": 0.6 },
+      { "name": "3 star", "count": 1 },
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 30 }
     ]
   }
 ]

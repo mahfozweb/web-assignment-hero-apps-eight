@@ -5,7 +5,7 @@ import logoImage from "../assets/logo.png"
 const Footer = () => {
     return (
         <>
-        <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4">
+    <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4">
   <aside className="grid-flow-col items-center">
     
    <img  className='w-[50px] h-[50px]' src={logoImage} alt="" /> <span className='font-semibold'>HERO.IO</span>

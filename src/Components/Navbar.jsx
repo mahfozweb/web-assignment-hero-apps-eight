@@ -14,21 +14,21 @@ const Navbar = () => {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-       <Link><a>Home</a></Link>
-      <Link><a>Apps</a></Link>
+       <Link ><a>Home</a></Link>
+      <Link >Apps</Link>
       <Link><a>Installation</a></Link>
       </ul>
     </div >
-   <Link to={"/home"} className='flex items-center'>
+   <Link  className='flex items-center'>
    <img  className='w-[50px] h-[50px]' src={logoImg} alt="" />
    <span className='font-semibold'>HERO.IO</span>
    </Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-      <Link className='mr-5 font-semibold hover:bg-red-400'><a>Home</a></Link>
-      <Link className='mr-5 font-semibold hover:bg-red-400'><a>Apps</a></Link>
-      <Link className='mr-5 font-semibold hover:bg-red-400'><a>Installation</a></Link>
+      <Link to={"/home"} className='mr-5 font-semibold hover:bg-red-400'>Home</Link>
+      <Link to={"/apps"} className='mr-5 font-semibold hover:bg-red-400'>Apps</Link>
+      <Link to={"/application"} className='mr-5 font-semibold hover:bg-red-400'>Installation</Link>
       
     </ul>
   </div>
