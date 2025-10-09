@@ -1,10 +1,10 @@
 [
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/CphBPgL3/images.jpg",
     "title": "Instagram",
     "companyName": "Meta Platforms Inc.",
     "id": 1,
-    "description": "Instagram is a social media platform for sharing photos, videos, and stories. It allows users to connect, explore trending content, and grow communities.",
+    "description": "Instagram is a globally recognized social networking platform developed by Meta Platforms Inc. It enables users to capture, edit, and share photos and videos with friends and followers worldwide. The platform offers creative tools like filters, stickers, and reels to make content more engaging. Features such as Stories, IGTV, and Live streaming allow users to share their moments in real time, while Explore helps discover trending topics and creators. Beyond personal use, Instagram serves as a key marketing tool for brands, influencers, and small businesses to build an online presence and reach audiences effectively through posts, reels, and ads. It remains one of the most powerful hubs for visual storytelling and social connection.",
     "size": 180,
     "reviews": 42,
     "ratingAvg": 4.4,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/KcwhLqT7/download.png",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 2,
-    "description": "YouTube is the largest video streaming and sharing platform with billions of users watching and uploading content daily.",
+    "description": "YouTube, owned by Google LLC, is the largest video-sharing and streaming platform in the world. It allows billions of users to upload, watch, and share videos ranging from entertainment and music to education and tutorials. The platform offers personalized recommendations, playlists, and a powerful algorithm that tailors content to user interests. Creators can monetize videos, interact with audiences via comments and live streams, and build global communities. YouTube Premium offers ad-free viewing, offline downloads, and access to YouTube Music. Its diverse ecosystem supports everyone—from vloggers and teachers to major production studios—making it the ultimate hub for digital creativity and global communication.",
     "size": 220,
     "reviews": 67,
     "ratingAvg": 4.6,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/6RgMYm8X/wh.jpg",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms Inc.",
     "id": 3,
-    "description": "WhatsApp is a secure messaging platform with free text, voice, and video calling features worldwide.",
+    "description": "WhatsApp Messenger, developed by Meta Platforms Inc., is one of the world’s leading communication apps. It offers free text messaging, voice and video calling, photo and document sharing, and group chat features. WhatsApp uses end-to-end encryption to ensure privacy and security in all communications. The app works seamlessly across mobile, desktop, and web platforms, providing easy access to chats anywhere. WhatsApp Business helps small businesses interact with customers through catalogs and automated replies. Known for its reliability, speed, and global reach, WhatsApp has become an essential tool for personal and professional communication worldwide.",
     "size": 150,
     "reviews": 58,
     "ratingAvg": 4.7,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/N6mNhsCN/download.png",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 4,
-    "description": "TikTok provides a platform for creative short-form videos, trends, and entertainment.",
+    "description": "TikTok, owned by ByteDance Ltd., is a revolutionary short-form video platform that empowers users to express creativity through music, dance, comedy, and storytelling. Its intuitive editing tools, visual effects, and trending soundtracks make video creation simple and fun. The app’s For You Page uses advanced algorithms to deliver personalized content, helping creators gain rapid exposure. TikTok has also become a major platform for influencers, marketers, and entertainers. Whether for education, inspiration, or humor, it provides endless entertainment while shaping digital culture and social media trends worldwide.",
     "size": 190,
     "reviews": 52,
     "ratingAvg": 4.5,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/jPkYdSbD/download.jpg",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 5,
-    "description": "Snapchat lets users share quick photos and videos with filters, lenses, and AR effects.",
+    "description": "Snapchat, created by Snap Inc., is a multimedia messaging app that lets users send photos, short videos, and messages that disappear after viewing. It features interactive tools such as augmented reality filters, Bitmoji avatars, and lenses that make sharing fun and creative. Snapchat also includes Stories, Spotlight for viral videos, and Snap Map to explore nearby content. Known for its privacy-first design, it allows real-time communication without permanent digital footprints. The app is especially popular among younger audiences and continues to redefine how people communicate visually and share experiences online.",
     "size": 160,
     "reviews": 33,
     "ratingAvg": 4.2,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/wNdgCrbN/download-1.png",
     "title": "Twitter (X)",
     "companyName": "X Corp.",
     "id": 6,
-    "description": "Twitter (X) connects people through short posts, live news, and conversations worldwide.",
+    "description": "Twitter, now rebranded as X, is a dynamic social platform that connects millions through short posts, live updates, and discussions. It enables users to share thoughts, news, and opinions in real time, making it a leading space for global conversations. Users can follow topics, trends, and influencers across diverse interests, from politics and entertainment to sports and technology. With features like Spaces for live audio chat and Communities for shared interests, Twitter promotes free expression and instant communication. It remains one of the most powerful tools for breaking news and social engagement online.",
     "size": 180,
     "reviews": 29,
     "ratingAvg": 4.3,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/PsNx8DCZ/download-2.png",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 7,
-    "description": "Spotify lets you listen to millions of songs and podcasts on demand.",
+    "description": "Spotify is a digital music streaming platform by Spotify AB that gives users access to millions of songs, albums, and podcasts. It allows seamless listening across devices with features like personalized playlists, recommendations, and offline downloads. Users can create and share playlists, follow artists, and enjoy high-quality streaming. The Premium version removes ads and enhances sound quality. Spotify’s algorithmic curation, such as Discover Weekly and Daily Mix, keeps music discovery exciting. It has transformed how people listen to audio content and continues to lead the global music streaming industry.",
     "size": 230,
     "reviews": 48,
     "ratingAvg": 4.7,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/QFfyVBCY/download-3.png",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 8,
-    "description": "Telegram is a fast, encrypted messaging app with powerful group and channel features.",
+    "description": "Telegram is a fast and secure cloud-based messaging app developed by Telegram FZ-LLC. It supports text messages, multimedia sharing, large group chats, and channels with unlimited subscribers. Telegram emphasizes privacy with secret chats and end-to-end encryption. Its cross-platform accessibility and cloud storage allow users to sync messages across devices instantly. Advanced features like bots, file sharing up to 2GB, and customizable themes make it a favorite among professionals and communities. With strong security and freedom-focused design, Telegram is a trusted alternative to traditional messaging apps.",
     "size": 170,
     "reviews": 21,
     "ratingAvg": 4.5,
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/7HHwcbF/download-4.png",
     "title": "Netflix",
     "companyName": "Netflix Inc.",
     "id": 9,
-    "description": "Netflix streams movies, TV shows, and documentaries globally on multiple devices.",
+    "description": "Netflix is the world’s leading entertainment streaming platform, offering thousands of movies, TV shows, and documentaries across genres and languages. It provides ad-free viewing, personalized recommendations, and the ability to download content for offline watching. Netflix produces award-winning original content, including series, films, and documentaries under Netflix Originals. Accessible on smartphones, smart TVs, and web browsers, it supports high-definition and 4K streaming. Its subscription-based model and user-friendly interface make Netflix a go-to platform for global audiences seeking high-quality entertainment anytime, anywhere.",
     "size": 250,
     "reviews": 38,
     "ratingAvg": 4.5,
@@ -162,11 +162,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/TqMnhrX6/download-6.png",
     "title": "LinkedIn",
     "companyName": "Microsoft Corp.",
     "id": 10,
-    "description": "LinkedIn helps professionals connect, share insights, and grow their careers.",
+    "description": "LinkedIn, owned by Microsoft Corp., is a professional networking platform that connects millions of people and organizations worldwide. It enables professionals to showcase their skills, share insights, and explore career opportunities. Companies use LinkedIn for recruitment, branding, and marketing, while individuals engage in networking, learning, and job hunting. With features like LinkedIn Learning and business pages, the platform supports continuous professional growth. It’s a powerful tool for building digital résumés, forming collaborations, and staying updated with industry news and trends.",
     "size": 180,
     "reviews": 17,
     "ratingAvg": 4.3,
@@ -180,11 +180,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/nqKbbBXL/download-7.png",
     "title": "Pinterest",
     "companyName": "Pinterest Inc.",
     "id": 11,
-    "description": "Pinterest helps users discover and save creative ideas for lifestyle, design, and hobbies.",
+    "description": "Pinterest is a creative discovery platform where users explore, collect, and share ideas for lifestyle, fashion, home design, travel, and more. It functions like a virtual inspiration board where users save images or links called 'Pins' to themed collections known as 'Boards'. Pinterest helps people plan projects, learn DIY ideas, and visualize concepts. Brands use it for showcasing products, driving traffic, and understanding customer interests. With its visual search and recommendation system, Pinterest turns inspiration into action for millions of users worldwide.",
     "size": 190,
     "reviews": 23,
     "ratingAvg": 4.6,
@@ -198,11 +198,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/zVvWmJr3/download.jpg",
     "title": "Reddit",
     "companyName": "Reddit Inc.",
     "id": 12,
-    "description": "Reddit is a network of communities where people share news, memes, and discussions.",
+    "description": "Reddit is a vast online network of communities where users share news, opinions, memes, and discussions on countless topics. Organized into 'subreddits', it covers interests ranging from technology and science to humor and lifestyle. Reddit allows users to post content, comment, and upvote or downvote based on relevance and quality. The platform encourages open conversations and diverse perspectives. With millions of active communities, Reddit serves as a digital forum for curiosity, learning, and social interaction.",
     "size": 200,
     "reviews": 25,
     "ratingAvg": 4.4,
@@ -216,11 +216,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/ns5phjhm/download-8.png",
     "title": "Discord",
     "companyName": "Discord Inc.",
     "id": 13,
-    "description": "Discord is a chat app for communities, gamers, and creators to connect via text and voice.",
+    "description": "Discord is a community-based chat application that allows users to communicate via text, voice, and video. Originally popular among gamers, it has evolved into a hub for all types of online communities—study groups, creators, fans, and developers. Servers can host channels for discussions, file sharing, and live streaming. Discord offers excellent moderation tools, bots for automation, and screen sharing options. Its real-time communication and cross-platform design make it an ideal choice for collaborative communication and social engagement.",
     "size": 190,
     "reviews": 32,
     "ratingAvg": 4.6,
@@ -234,11 +234,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/bMZ4pWtQ/download-1.jpg",
     "title": "Zoom",
     "companyName": "Zoom Video Communications",
     "id": 14,
-    "description": "Zoom provides reliable video conferencing, messaging, and online collaboration tools.",
+    "description": "Zoom is a leading platform for video conferencing, online meetings, webinars, and virtual collaboration. It offers HD video, audio, screen sharing, and chat features that support both personal and professional use. Businesses, schools, and organizations rely on Zoom for remote work and education. Its user-friendly interface and reliability make it ideal for connecting teams globally. Zoom continues to innovate with features like breakout rooms, live transcripts, and virtual backgrounds, revolutionizing the way people communicate and collaborate remotely.",
     "size": 250,
     "reviews": 40,
     "ratingAvg": 4.5,
@@ -252,111 +252,111 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/tryBqnX/download-9.png",
     "title": "Google Drive",
     "companyName": "Google LLC",
     "id": 15,
-    "description": "Google Drive offers secure cloud storage for files, documents, and backups.",
-    "size": 210,
-    "reviews": 36,
-    "ratingAvg": 4.6,
-    "downloads": "9M",
+    "description": "Google Drive is a cloud storage and file-sharing service developed by Google LLC. It allows users to store, access, and collaborate on files securely from any device. Integrated with Google Docs, Sheets, and Slides, it enables real-time teamwork and document editing. Drive provides powerful sharing controls, ensuring data safety and accessibility. Users can back up photos, videos, and important documents effortlessly. Its simplicity, cross-device synchronization, and free storage make Google Drive a must-have productivity tool for individuals and organizations alike.",
+    "size": 200,
+    "reviews": 37,
+    "ratingAvg": 4.7,
+    "downloads": "10M",
     "ratings": [
-      { "name": "1 star", "count": 0.3 },
-      { "name": "2 star", "count": 0.4 },
+      { "name": "1 star", "count": 0.1 },
+      { "name": "2 star", "count": 0.3 },
       { "name": "3 star", "count": 0.8 },
-      { "name": "4 star", "count": 6 },
-      { "name": "5 star", "count": 28 }
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 32 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
-    "title": "CapCut",
-    "companyName": "Bytedance Pte Ltd.",
-    "id": 16,
-    "description": "CapCut is a powerful video editing app for creating short and creative content.",
-    "size": 180,
-    "reviews": 27,
-    "ratingAvg": 4.6,
-    "downloads": "7M",
-    "ratings": [
-      { "name": "1 star", "count": 0.3 },
-      { "name": "2 star", "count": 0.4 },
-      { "name": "3 star", "count": 0.7 },
-      { "name": "4 star", "count": 4 },
-      { "name": "5 star", "count": 20 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
+    "image": "https://i.ibb.co.com/F4r6MtCG/download-10.png",
     "title": "Google Maps",
     "companyName": "Google LLC",
-    "id": 17,
-    "description": "Google Maps offers navigation, live traffic, and local business information globally.",
-    "size": 230,
-    "reviews": 44,
-    "ratingAvg": 4.7,
-    "downloads": "9M",
-    "ratings": [
-      { "name": "1 star", "count": 0.3 },
-      { "name": "2 star", "count": 0.5 },
-      { "name": "3 star", "count": 1 },
-      { "name": "4 star", "count": 6 },
-      { "name": "5 star", "count": 30 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
-    "title": "Canva",
-    "companyName": "Canva Pty Ltd.",
-    "id": 18,
-    "description": "Canva helps users design graphics, presentations, and posts easily with templates.",
-    "size": 200,
-    "reviews": 31,
+    "id": 16,
+    "description": "Google Maps is a web-based navigation and mapping service by Google LLC that provides satellite imagery, street maps, and real-time traffic information. It helps users find locations, plan routes, and explore local businesses. With turn-by-turn GPS navigation, Street View, and offline map access, Google Maps is essential for travelers and commuters. It also supports business listings and public transport schedules. Its integration with other Google services makes it one of the most trusted navigation tools worldwide.",
+    "size": 180,
+    "reviews": 45,
     "ratingAvg": 4.8,
-    "downloads": "8M",
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 0.2 },
       { "name": "2 star", "count": 0.3 },
       { "name": "3 star", "count": 0.6 },
-      { "name": "4 star", "count": 4 },
-      { "name": "5 star", "count": 25 }
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 38 }
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
-    "title": "Duolingo",
-    "companyName": "Duolingo Inc.",
-    "id": 19,
-    "description": "Duolingo is a fun and free app for learning languages through interactive lessons.",
-    "size": 160,
-    "reviews": 22,
-    "ratingAvg": 4.7,
-    "downloads": "5M",
-    "ratings": [
-      { "name": "1 star", "count": 0.1 },
-      { "name": "2 star", "count": 0.2 },
-      { "name": "3 star", "count": 0.5 },
-      { "name": "4 star", "count": 3 },
-      { "name": "5 star", "count": 17 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/DHKNRndq/facebook.png",
-    "title": "Amazon Shopping",
-    "companyName": "Amazon Mobile LLC",
-    "id": 20,
-    "description": "Amazon Shopping allows users to browse, buy, and track products globally.",
-    "size": 250,
-    "reviews": 39,
-    "ratingAvg": 4.5,
+    "image": "https://i.ibb.co.com/Ndpvmqk8/download-11.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com Inc.",
+    "id": 17,
+    "description": "Amazon is a global e-commerce and cloud computing giant offering a vast selection of products and services. The app enables users to shop online for electronics, books, fashion, groceries, and more with fast delivery options. It includes features like personalized recommendations, secure payments, and order tracking. Amazon Prime members enjoy exclusive discounts, streaming content, and faster shipping. Beyond retail, Amazon also leads in cloud technology through AWS, reshaping how businesses operate digitally.",
+    "size": 240,
+    "reviews": 60,
+    "ratingAvg": 4.6,
     "downloads": "9M",
     "ratings": [
-      { "name": "1 star", "count": 0.4 },
-      { "name": "2 star", "count": 0.6 },
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.5 },
       { "name": "3 star", "count": 1 },
-      { "name": "4 star", "count": 5 },
+      { "name": "4 star", "count": 7 },
+      { "name": "5 star", "count": 42 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7JPj8dK2/download-2.jpg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corp.",
+    "id": 18,
+    "description": "Microsoft Teams is a collaboration and communication platform by Microsoft Corp. designed for workplaces, schools, and organizations. It combines chat, meetings, file sharing, and task management in one space. Integrated with Microsoft 365 apps like Word, Excel, and PowerPoint, it supports seamless productivity. Teams allows real-time video meetings, screen sharing, and collaboration within channels. It has become an essential tool for remote work, hybrid offices, and online education worldwide.",
+    "size": 230,
+    "reviews": 44,
+    "ratingAvg": 4.5,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 0.3 },
+      { "name": "2 star", "count": 0.4 },
+      { "name": "3 star", "count": 0.9 },
+      { "name": "4 star", "count": 6 },
       { "name": "5 star", "count": 30 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Lz8qjD7t/download-12.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox Inc.",
+    "id": 19,
+    "description": "Dropbox is a cloud storage service that helps users back up, share, and sync files across devices. It supports automatic photo uploads, document collaboration, and version history. Dropbox integrates with tools like Slack, Zoom, and Microsoft Office to enhance workflow. The platform’s simplicity and cross-device accessibility make it a favorite among professionals and teams needing secure, easy file management. With strong encryption and smart sync options, Dropbox ensures productivity and peace of mind for users everywhere.",
+    "size": 210,
+    "reviews": 27,
+    "ratingAvg": 4.4,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 0.2 },
+      { "name": "2 star", "count": 0.3 },
+      { "name": "3 star", "count": 0.7 },
+      { "name": "4 star", "count": 4 },
+      { "name": "5 star", "count": 18 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6Jv8qcCJ/download-13.png",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe Inc.",
+    "id": 20,
+    "description": "Adobe Photoshop Express is a powerful photo editing app by Adobe Inc., designed for both beginners and professionals. It offers tools for cropping, color correction, background removal, collage making, and retouching images. Users can apply filters, effects, and overlays to enhance creativity. Integration with Adobe Creative Cloud allows seamless editing between devices. Photoshop Express is widely used for creating social media content, marketing visuals, and personal photo improvements quickly and efficiently.",
+    "size": 260,
+    "reviews": 50,
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 0.1 },
+      { "name": "2 star", "count": 0.3 },
+      { "name": "3 star", "count": 0.6 },
+      { "name": "4 star", "count": 5 },
+      { "name": "5 star", "count": 35 }
     ]
   }
 ]

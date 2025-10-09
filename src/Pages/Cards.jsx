@@ -4,14 +4,12 @@ import { Link } from 'react-router';
 
 const Cards = ({card}) => {
    
-     const {title, downloads, ratingAvg, id} = card
+     const {title, downloads, ratingAvg, id , image} = card
     return (
-    <Link to={"/cardDetails"} className='hover:scale-105 transition ease-in-out '>
+    <Link to={`/apps/${id}`} className='hover:scale-105 transition ease-in-out '>
        <div className="card bg-base-100 w-65 h-full shadow-sm">
-  <figure>
-    <img
-      src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-      alt="Shoes" />
+  <figure className='p-3'>
+ <img src={image} alt="" />
   </figure>
   <div className="card-body">
    <div className='flex justify-center font-bold pb-10'>

@@ -9,9 +9,6 @@ import useCards from "../Hooks/useCards";
 const Home = () => {
      const {cards} = useCards()
   const featuredCards = cards.slice(0, 8);
-  
-  console.log(cards);
-  
   return (
     <div>
       <Banner></Banner>

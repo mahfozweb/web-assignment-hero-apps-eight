@@ -18,12 +18,12 @@ const router = createBrowserRouter([
     children :[
         {
             index : true,
-            loader :() => fetch("./TrendingData.json"),
+            
             Component : Home
         },
         {
             path: "/home",
-            loader :() => fetch("./TrendingData.json"),
+        
             Component : Home
         },
         {
@@ -37,6 +37,10 @@ const router = createBrowserRouter([
         {
             path : "/application",
             Component : Installation
+        },
+        {
+            path : "/apps/:id",
+            Component: CardDetails
         }
     ],
   },
