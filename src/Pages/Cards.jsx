@@ -5,9 +5,11 @@ import { Link } from 'react-router';
 const Cards = ({card}) => {
    
      const {title, downloads, ratingAvg, id , image} = card
+
+
     return (
     <Link to={`/apps/${id}`} className='hover:scale-105 transition ease-in-out '>
-       <div className="card bg-base-100 w-65 h-full shadow-sm">
+       <div className="card bg-base-100 w-full md:w-65 h-full shadow-sm">
   <figure className='p-3'>
  <img src={image} alt="" />
   </figure>

@@ -9,7 +9,7 @@ const AllCards = () => {
     const searchCards = term 
     ? cards.filter(card => card.title.toLocaleLowerCase().includes(term)) 
     : cards
-    
+    const states = searchCards.length === 0 && "No Apps Found"
   return (
     <div>
       <div className="flex flex-col justify-center items-center p-3">
@@ -26,19 +26,19 @@ const AllCards = () => {
         <label className="input flex justify-center items-center m-7 ">
           <input value={search} onChange={(e) => setSearch(e.target.value)} className="" type="search" placeholder="Search apps" />
         </label>
-       
       </div>
-      <div className="grid grid-cols-4 gap-4  px-5">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-4  px-5">
         {searchCards.map((card) => (
           <CardList card={card}></CardList>
         ))}
       </div>
+     <div className=" flex justify-center">
+         <h1 className="font-bold text-4xl ">{states}</h1>
+     </div>
       <div className="flex justify-center items-center text-5xl font-bold text-gray-600">
       </div>
      <div className="flex justify-center items-center text-3xl">
-         {
-        searchCards && "No Apps Found"
-      }
+      
      </div>
     </div>
   );

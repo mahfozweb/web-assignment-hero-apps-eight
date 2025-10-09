@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import downl from "../assets/icon-downloads.png"
 import { Link } from "react-router";
 import icon from "../assets/icon-ratings.png"
+import { ToastContainer, toast } from 'react-toastify';
 
 const Installation = () => {
     const [sortOrder ,setSortOrder ] =useState('none')
@@ -10,6 +11,17 @@ const Installation = () => {
     const saveList = JSON.parse(localStorage.getItem("install"));
     if (saveList) setInstall(saveList);
   }, []);
+
+  const handleRemove =(id) =>{
+    const existingList = JSON.parse(localStorage.getItem('install'))
+    let updateList = existingList.filter(p=> p.id != id)
+          setInstall(updateList)
+          localStorage.setItem('install' , JSON.stringify(updateList))
+        //   toast('Install Successfully')
+        toast('remove a card')
+
+  }
+
 
 const sortItem = () =>{
     if(sortOrder === 'downloads-asc'){
@@ -73,13 +85,14 @@ console.log(sortItem());
              </div>
            </div>
             <div className="card-actions justify-end">
-              <button className="btn btn-primary">Watch</button>
+              <button onClick={() => handleRemove(p.id)} className="btn btn-primary">Uninstall</button>
             </div>
           </div>
         </div>
         </div>)
        }
       </div>
+      <ToastContainer />
     </>
   );
 };

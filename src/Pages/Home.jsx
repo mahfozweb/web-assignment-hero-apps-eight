@@ -22,14 +22,14 @@ const Home = () => {
             Explore All Trending Apps on the market developed by us
           </p>
         </div>
-        <div className="grid grid-cols-4 gap-4  px-5">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-4  px-5">
           {featuredCards.map((card) => (
             <Cards key={card.id} card={card}></Cards>
           ))}
         </div>
       </div>
-      <div className="flex justify-center items-center">
-        <Link to={"/apps"} className="btn btn-primary my-10 ">Show All</Link>
+      <div className="flex justify-center items-center ">
+        <Link to={"/apps"} className="w-[250px] btn btn-primary my-10 ">Show All</Link>
       </div>
     </div>
   );
