@@ -30,7 +30,7 @@ const Home = () => {
       </div>
       <div className="flex justify-center items-center ">
         <Link to={"/apps"} className="w-[250px] btn btn-primary my-10 ">Show All</Link>
-      </div>
+        </div>
     </div>
   );
 };
