@@ -3,12 +3,12 @@ import useCards from "../Hooks/useCards";
 import CardList from "./CardList";
 
 const AllCards = () => {
-    const { cards } = useCards();
+    const { cards ,loading } = useCards();
     const [search , setSearch] = useState('')
     const term = search.trim().toLocaleLowerCase()
     const searchCards = term 
     ? cards.filter(card => card.title.toLocaleLowerCase().includes(term)) 
-    : cards
+    : cards 
     const states = searchCards.length === 0 && "No Apps Found"
   return (
     <div>
@@ -28,6 +28,7 @@ const AllCards = () => {
         </label>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4  px-5">
+        
         {searchCards.map((card) => (
           <CardList card={card}></CardList>
         ))}

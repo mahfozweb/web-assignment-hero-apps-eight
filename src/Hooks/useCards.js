@@ -8,7 +8,7 @@ const useCards =() =>{
     const [error, setError] = useState(null)
     useEffect(() =>{
         setLoading(true)
-        axios('../TrendingData.json')
+        axios('/TrendingData.json')
         .then(data => setCards(data.data)
         .catch (err => setError(err))
         .finally(() =>setLoading(false))

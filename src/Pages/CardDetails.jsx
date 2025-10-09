@@ -73,7 +73,7 @@ const CardDetails = () => {
               onClick={() => handleInstall()}
               className="bg-[#00d390] p-2 "
             >
-              {state ? "Install Now" : "Installed"}
+              {state ? "Install Now(250MB)" : "Installed"}
             </button>
           </div>
         </div>

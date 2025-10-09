@@ -7,7 +7,7 @@ import { Link,  } from "react-router";
 import useCards from "../Hooks/useCards";
 
 const Home = () => {
-     const {cards} = useCards()
+     const {cards, loading} = useCards()
   const featuredCards = cards.slice(0, 8);
   return (
     <div>
@@ -22,7 +22,9 @@ const Home = () => {
             Explore All Trending Apps on the market developed by us
           </p>
         </div>
+        
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4  px-5">
+          
           {featuredCards.map((card) => (
             <Cards key={card.id} card={card}></Cards>
           ))}
